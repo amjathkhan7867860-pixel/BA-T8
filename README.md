@@ -233,3 +233,88 @@ https://public.tableau.com/app/profile/amjath.khan/viz/TASK12_17912759282610/Das
 
 
 ---
+BA 13
+# Supermarket Sales Analysis – Tableau Dashboard
+
+## Project Overview
+This project focuses on exploring and analyzing supermarket sales data using Tableau Public. The objective is to identify important patterns, trends, comparisons, and relationships in supermarket sales.
+
+## Dataset
+**Dataset Name:** Supermarket Sales Dataset  
+**Tool Used:** Tableau Public
+
+### Dataset Columns
+- Branch
+- City
+- Customer Type
+- Date
+- Gender
+- Invoice ID
+- Payment
+- Product Line
+- Time
+- COGS
+- Gross Income
+- Gross Margin Percentage
+- Quantity
+- Rating
+- Sales
+- Tax 5%
+- Unit Price
+
+## Visualizations Created
+
+### 1. Bar Chart – Sales by Product Line
+- Compare sales across different product lines.
+- Identify the highest and lowest sales categories.
+- Understand product category performance.
+
+### 2. Line Chart – Monthly Sales Trend
+- Analyze sales changes over time.
+- Identify sales trends.
+- Compare sales performance across branches.
+
+### 3. Pie Chart – Sales by Payment Method
+- Compare payment methods.
+- Display the percentage contribution of each payment method.
+- Identify the most commonly used payment method.
+
+### 4. Scatter Plot – Sales vs Gross Income
+- Analyze the relationship between sales and gross income.
+- Identify patterns between sales and profitability.
+- Compare product line performance.
+
+## Key Findings
+1. The bar chart helps identify the highest and lowest performing product lines.
+2. The line chart shows changes in sales over time.
+3. The pie chart identifies the contribution of different payment methods.
+4. The scatter plot helps understand the relationship between sales and gross income.
+
+## Interactive Dashboard
+The four visualizations are combined into one interactive Tableau dashboard.
+
+### Filters Used
+1. Branch
+2. Gender
+3. Customer Type
+
+These filters help users explore sales performance based on different customer and branch categories.
+
+## Conclusion
+The supermarket sales analysis provides insights into product performance, sales trends, customer payment preferences, and the relationship between sales and gross income. The dashboard makes it easier to understand business performance and support data-driven decisions.
+
+## Suggestions
+- Focus on improving low-performing product lines.
+- Monitor sales trends regularly.
+- Understand customer payment preferences.
+- Improve sales strategies based on branch performance.
+
+## Recommendations
+1. Promote products with lower sales to improve their performance.
+2. Maintain sufficient stock of high-performing products.
+3. Use customer preferences to improve marketing strategies.
+4. Monitor gross income and sales to support better business decisions.
+
+## Final Outcome
+Successfully created four visualizations and one interactive dashboard using Tableau Public to analyze supermarket sales data.
+https://public.tableau.com/newWorkbook/2ba8f66a-5945-4779-97d7-f24c6f0ca379#1
