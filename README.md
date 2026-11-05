@@ -318,3 +318,73 @@ The supermarket sales analysis provides insights into product performance, sales
 ## Final Outcome
 Successfully created four visualizations and one interactive dashboard using Tableau Public to analyze supermarket sales data.
 https://public.tableau.com/newWorkbook/2ba8f66a-5945-4779-97d7-f24c6f0ca379#1
+Task 14
+# Supermarket Sales Analysis Dashboard
+
+## 1. Project Overview
+
+The Supermarket Sales Analysis Dashboard is created using Tableau to analyze supermarket sales performance, product lines, payment methods, monthly sales trends, and gross income.
+
+**Dataset:** Supermarket Sales Dataset  
+**Tool:** Tableau Public
+
+## 2. Visualizations Created
+
+A minimum of four visualizations are included:
+
+1. **Sales by Product Line – Bar Chart**  
+   Compares total sales across different product lines.
+
+2. **Monthly Sales Trend – Line Chart**  
+   Displays monthly sales trends and compares performance across branches.
+
+3. **Sales by Payment Method – Pie Chart**  
+   Shows the distribution of sales across different payment methods.
+
+4. **Sales vs Gross Income – Scatter Plot**  
+   Analyzes the relationship between sales and gross income for different product lines.
+
+## 3. Interactive Filters
+
+The dashboard includes the following interactive filters:
+
+1. **Branch Filter** – Allows users to view sales performance for individual branches.
+2. **Gender Filter** – Allows users to compare sales based on customer gender.
+3. **Customer Type Filter** – Helps analyze different customer groups.
+
+These filters make the dashboard interactive and allow users to explore the data.
+
+## 4. Interactive Dashboard
+
+**Dashboard Title:** Supermarket Sales Analysis Dashboard
+
+The dashboard combines all four visualizations into one interactive view. Users can apply filters to explore sales performance by branch, gender, and customer type.
+
+## 5. Key Findings
+
+The following findings should be confirmed using the completed charts:
+
+1. The bar chart identifies which product line contributes the highest and lowest total sales.
+2. The line chart highlights monthly sales variations and differences between branches.
+3. The pie chart identifies the most and least commonly used payment methods.
+
+## 6. Suggestions and Recommendations
+
+1. **Product Management:** Focus on maintaining sufficient stock for product lines with higher sales and review the performance of lower-selling product lines.
+2. **Customer Engagement:** Use branch and customer-type filter results to understand customer purchasing patterns and plan suitable promotional activities.
+
+## 7. Conclusion
+
+The Supermarket Sales Analysis Dashboard provides a visual overview of sales performance, product-line contribution, payment methods, and monthly trends. The interactive filters help users explore the dataset from different perspectives and support better business decision-making.
+
+## 8. Technologies Used
+
+- Tableau Public
+- Supermarket Sales Dataset
+- Data Visualization
+- Interactive Filters
+- Dashboard Design
+
+- link:
+- https://public.tableau.com/authoring/task14_17938613215680/Dashboard1#1
+- 
