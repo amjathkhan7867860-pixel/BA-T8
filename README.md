@@ -317,7 +317,7 @@ The supermarket sales analysis provides insights into product performance, sales
 
 ## Final Outcome
 Successfully created four visualizations and one interactive dashboard using Tableau Public to analyze supermarket sales data.
-https://public.tableau.com/newWorkbook/2ba8f66a-5945-4779-97d7-f24c6f0ca379#1
+https://public.tableau.com/views/TASK12_17912759282610/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Task 14
 # Supermarket Sales Analysis Dashboard
 
