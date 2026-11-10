@@ -386,5 +386,5 @@ The Supermarket Sales Analysis Dashboard provides a visual overview of sales per
 - Dashboard Design
 
 - link:
--https://public.tableau.com/authoring/task14_17938613215680/Dashboard1#2
+  https://public.tableau.com/views/task14_17938613215680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - 
